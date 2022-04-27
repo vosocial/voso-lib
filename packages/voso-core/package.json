@@ -1,5 +1,5 @@
 {
-  "name": "@adonoustech/voso-core",
+  "name": "@voso/voso-core",
   "version": "0.4.0",
   "scripts": {
     "build:cjs": "tsc -p tsconfig.cjs.json",
@@ -15,7 +15,7 @@
     "url": "https://adonoustech.io"
   },
   "description": "The core library for VoSo",
-  "homepage": "https://github.com/AdonousTech/voso-lib#readme",
+  "homepage": "https://github.com/vosocial/voso-lib#readme",
   "license": "Apache-2.0",
   "devDependencies": {
     "jest": "^26.6.3",
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AdonousTech/voso-lib.git",
+    "url": "git+https://github.com/vosocial/voso-lib.git",
     "directory": "packages/voso-core"
   },
   "bugs": {
-    "url": "https://github.com/AdonousTech/voso-lib/issues"
+    "url": "https://github.com/vosocial/voso-lib/issues"
   }
 }
